@@ -1,0 +1,15 @@
+D:\DEV\WorkSpace\C\SDKDemoWPF\SDKDemoWPF\SDKDemoWPF\bin\Debug\SDKDemoWPF.exe.config
+D:\DEV\WorkSpace\C\SDKDemoWPF\SDKDemoWPF\SDKDemoWPF\bin\Debug\SDKDemoWPF.exe
+D:\DEV\WorkSpace\C\SDKDemoWPF\SDKDemoWPF\SDKDemoWPF\bin\Debug\SDKDemoWPF.pdb
+D:\DEV\WorkSpace\C\SDKDemoWPF\SDKDemoWPF\SDKDemoWPF\obj\Debug\SDKDemoWPF.csprojAssemblyReference.cache
+D:\DEV\WorkSpace\C\SDKDemoWPF\SDKDemoWPF\SDKDemoWPF\obj\Debug\MainWindow.g.cs
+D:\DEV\WorkSpace\C\SDKDemoWPF\SDKDemoWPF\SDKDemoWPF\obj\Debug\App.g.cs
+D:\DEV\WorkSpace\C\SDKDemoWPF\SDKDemoWPF\SDKDemoWPF\obj\Debug\SDKDemoWPF_MarkupCompile.cache
+D:\DEV\WorkSpace\C\SDKDemoWPF\SDKDemoWPF\SDKDemoWPF\obj\Debug\SDKDemoWPF_MarkupCompile.lref
+D:\DEV\WorkSpace\C\SDKDemoWPF\SDKDemoWPF\SDKDemoWPF\obj\Debug\MainWindow.baml
+D:\DEV\WorkSpace\C\SDKDemoWPF\SDKDemoWPF\SDKDemoWPF\obj\Debug\SDKDemoWPF.g.resources
+D:\DEV\WorkSpace\C\SDKDemoWPF\SDKDemoWPF\SDKDemoWPF\obj\Debug\SDKDemoWPF.Properties.Resources.resources
+D:\DEV\WorkSpace\C\SDKDemoWPF\SDKDemoWPF\SDKDemoWPF\obj\Debug\SDKDemoWPF.csproj.GenerateResource.cache
+D:\DEV\WorkSpace\C\SDKDemoWPF\SDKDemoWPF\SDKDemoWPF\obj\Debug\SDKDemoWPF.csproj.CoreCompileInputs.cache
+D:\DEV\WorkSpace\C\SDKDemoWPF\SDKDemoWPF\SDKDemoWPF\obj\Debug\SDKDemoWPF.exe
+D:\DEV\WorkSpace\C\SDKDemoWPF\SDKDemoWPF\SDKDemoWPF\obj\Debug\SDKDemoWPF.pdb
